@@ -1,0 +1,16 @@
+{
+   "files.eol": "\n",
+   "typescript.tsdk": "node_modules/typescript/lib",
+   "typescript.enablePromptUseWorkspaceTsdk": true,
+   "eslint.codeActionsOnSave.mode": "problems",
+   "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+   },
+   "cSpell.words": ["edgetatic", "roboto"],
+   "grammarly.selectors": [
+      {
+         "language": "markdown",
+         "scheme": "file"
+      }
+   ]
+}

@@ -1,0 +1,9 @@
+node_modules/
+.cache/
+public/
+.yarn
+*.log
+.netlify/
+.vercel/
+.env
+.DS_Store
