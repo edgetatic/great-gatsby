@@ -1,5 +1,9 @@
 # My old portfolio converted to Edgetatic
 
+[My Portfolio](https://r0mankon.vercel.app)
+
+[Demo](https://great-gatsby-edgetatic.vercel.app/)
+
 ## Main Tech Stack
 
 - Gatsby
